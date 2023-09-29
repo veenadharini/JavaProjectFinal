@@ -1,5 +1,5 @@
 # JavaProjectFinal
-Team members: Hamzah Mukadam, Shreya Maher, Veenadharini Shukla
+Team members: Veenadharini Shukla, Hamzah Mukadam, Shreya Maher
 
 
 
